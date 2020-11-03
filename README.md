@@ -8,6 +8,14 @@ This repository provides the source code for the three Dynamic Effects in [Activ
 
 - [Gradual Appearance](#gradual-appearance)
 
+
+**Publication** 
+
+Min Lu, Noa Fish, Shuaiqi Wang, Joel Lanir, Daniel Cohen-Or, and Hui Huang,
+**Enhancing Static Charts with Data-driven Animations**, 
+IEEE Transactions on Visualization and Computer Graphics (to be appeared) 
+
+
 **File Structure**
 
 	- lib: //3rd party library
